@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":2,
@@ -8,15 +8,15 @@
     "InterstitialAds":"bb",
     "NativeAds":"bb",
     "RewardAds":"yandex",
-    "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
-    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobAppID":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "AdmobInterstitial":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "AdmobReward":"xxxxxxxxxxx",
-    "MintegralAppID":"144002",
-    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
-    "MintegralInterstitialUnitID":"462374",
-    "MintegralInterstitialPlacementID":"290653",
-    "MintegralRewardUnitID":"xxxxxxx",
-    "MintegralRewardPlacementID":"xxxxxxx"
+    "MintegralAppID":"418738",
+    "MintegralAppKey":"1830ca60e9705834759abc6bbe80a5a5",
+    "MintegralInterstitialUnitID":"5114906",
+    "MintegralInterstitialPlacementID":"2901067",
+    "MintegralRewardUnitID":"5114908",
+    "MintegralRewardPlacementID":"2901069"
     },
   "MoreApps":[
       {
